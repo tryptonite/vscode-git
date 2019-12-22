@@ -1,0 +1,45 @@
+html, body{
+    background-color:#24242C;
+    color:#848494;
+}
+
+.uno{
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+    height: 50px;
+    width: 50px;
+
+}
+
+.nav{
+    position:fixed;
+    margin:auto;
+    top:25px;
+    left:25px;
+
+}
+
+.nav ul{
+    list-style-type: none;
+}
+
+.nav ul li{
+    padding:10px;
+}
+
+.para{
+    position: absolute;
+    margin: 50px;
+    top: 11.5rem;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display:inline;
+    height: 50px;
+    width: 50px;
+}
